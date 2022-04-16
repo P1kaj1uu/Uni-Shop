@@ -1,6 +1,6 @@
 <template>
 	<view>
-		Cate
+		
 	</view>
 </template>
 
@@ -9,13 +9,7 @@
 		data() {
 			return {
 				
-			}
-		},
-		onLoad() {
-			
-		},
-		methods: {
-			
+			};
 		}
 	}
 </script>
