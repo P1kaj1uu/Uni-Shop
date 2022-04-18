@@ -1,7 +1,7 @@
 # Wx-uni-app
 微信小程序黑马优购项目
 
-在线文档：[详情](https://www.escook.cn/docs-uni-shop?_blank)
+在线文档：<a href="https://www.escook.cn/docs-uni-shop" target="_blank">详情</a>
 
 request域名：小程序只支持 https 协议，并且要求是已备案的域名。
 
