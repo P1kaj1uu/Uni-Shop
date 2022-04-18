@@ -31,7 +31,10 @@
 </template>
 
 <script>
+	import badgeMix from '../../mixins/tabbar-badge.js'
+	
 	export default {
+		mixins: [badgeMix],
 		data() {
 			return {
 				// 用于转存调用getSystemInfoSync方法获取的屏幕可用高度
